@@ -12,5 +12,5 @@ open file imageReader.cpp and paste you code to function PresentImage90
 ***Warning! Streaming processing reduces fps***
 
 ## Screenshots
-![MainWindow](/screenshot/Screenshot_1.png =600x300)
-![Info](/screenshot/Screenshot_2.png =600x300)
+![MainWindow](/screenshot/Screenshot_1.png =100x60)
+![Info](/screenshot/Screenshot_2.png =100x60)
