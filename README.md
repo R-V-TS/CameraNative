@@ -13,4 +13,4 @@ open file imageReader.cpp and paste you code to function PresentImage90
 
 ## Screenshots
 <img src="https://github.com/Viktorovich21/CameraNative/blob/master/screenshot/Screenshot_1.png" alt="" data-canonical-src="https://github.com/Viktorovich21/CameraNative/blob/master/screenshot/Screenshot_1.png" width="200" height="400" />
-![](/screenshot/Screenshot_2.png)
+<img src="https://github.com/Viktorovich21/CameraNative/blob/master/screenshot/Screenshot_2.png" alt="" data-canonical-src="https://github.com/Viktorovich21/CameraNative/blob/master/screenshot/Screenshot_1.png" width="200" height="400" />
